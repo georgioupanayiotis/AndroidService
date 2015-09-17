@@ -1,0 +1,2 @@
+<service android:enabled="true" android:name=".MyService">
+</service>
